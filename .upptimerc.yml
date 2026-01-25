@@ -79,14 +79,14 @@ status-website:
 
 i18n:
   activeIncidents: "Incidentes ativos"
-  allSystemsOperational: "Todos os sistemas estão online"
-  Baseboard: "Esta página é [código aberto] ($REPO) , desenvolvida por [Upptime] (https://upptime.js.org)"
+  allSystemsOperational: "🟩 Todos os sistemas operacionais"
+  Baseboard: "Esta página é [código aberto] ($REPO), desenvolvida por [Upptime] (https://upptime.js.org)"
   url: "URL"
   status: "Status"
   history: "Histórico"
-  responseTime: "Tempo de Respota"
-  uptime: "Tempo de atividade"
-  up: "🟩 Onilne"
+  responseTime: "Tempo de resposta"
+  uptime: "Tempo de atividade total"
+  up: "🟩 Online"
   degraded: "🟨 Instável"
   down: "🟥 Offline"
   responseTimeGraphAlt: "Gráfico de tempo de resposta"
@@ -95,59 +95,55 @@ i18n:
   responseTimeWeek: "Tempo de resposta de 7 dias"
   responseTimeMonth: "Tempo de resposta de 30 dias"
   responseTimeYear: "Tempo de resposta de 1 ano"
-  uptime: "Tempo de atividade total"
   uptimeDay: "Tempo de atividade de 24 horas"
   uptimeWeek: "Tempo de atividade de 7 dias"
   uptimeMonth: "Tempo de atividade de 30 dias"
   uptimeYear: "Tempo de atividade de 1 ano"
-  liveStatus: "Status ao Vivo"
-  liveStatusHtmlComment: "<!--status ao vivo-->"
-  allSystemsOperational: "🟩 Todos os sistemas operacionais"
+  liveStatus: "Status ao vivo"
+  liveStatusHtmlComment: ""
   degradedPerformance: "🟨 Desempenho degradado"
   completeOutage: "🟥 Falha total"
   partialOutage: "🟧 Interrupção parcial"
-  activeIncidents: Active Incidents
-  allSystemsOperational: All systems are operational
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentSubscribe: Subscribe to Updates
-  incidentViewOnGitHub: View on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  loading: Loading
-  navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceedeed
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-
+  incidentReport: "Relatório do incidente #$NUMBER →"
+  activeIncidentSummary: "Aberto em $DATE com $POSTS postagens"
+  incidentTitle: "Detalhes do incidente $NUMBER"
+  incidentDetails: "Detalhes do incidente"
+  incidentFixed: "Resolvido"
+  incidentOngoing: "Em andamento"
+  incidentOpenedAt: "Aberto em"
+  incidentClosedAt: "Fechado em"
+  incidentSubscribe: "Inscreva-se para atualizações"
+  incidentViewOnGitHub: "Ver no GitHub"
+  incidentCommentSummary: "Postado em $DATE por $AUTHOR"
+  incidentBack: "← Voltar para todos os incidentes"
+  pastIncidents: "Incidentes anteriores"
+  pastIncidentsResolved: "Resolvido em $MINUTES minutos com $POSTS postagens"
+  overallUptime: "Tempo de atividade geral: $UPTIME"
+  overallUptimeTitle: "Tempo de atividade geral"
+  averageResponseTime: "Tempo de resposta médio: $TIMEms"
+  averageResponseTimeTitle: "Resposta média"
+  sevelDayResponseTime: "Tempo de resposta de 7 dias"
+  responseTimeMs: "Tempo de resposta (ms)"
+  loading: "Carregando"
+  navGitHub: "GitHub"
+  footer: "Esta página é [código aberto]($REPO), desenvolvida por [Upptime](https://upptime.js.org)"
+  rateLimitExceededTitle: "Limite de taxa excedido"
+  rateLimitExceededIntro: "Você excedeu o número de solicitações que pode fazer em uma hora, por isso terá que esperar antes de acessar este site novamente. Como alternativa, você pode adicionar um Token de Acesso Pessoal do GitHub para continuar usando este site."
+  rateLimitExceededWhatDoesErrorMean: "O que significa este erro?"
+  rateLimitExceededErrorMeaning: "Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite 60 solicitações por hora para cada endereço IP, as quais você consumiu."
+  rateLimitExceededErrorHowCanFix: "Como posso corrigir isso?"
+  rateLimitExceededErrorFix: "Você pode esperar mais uma hora e o limite do seu endereço IP será restaurado. Como alternativa, você pode adicionar seu Token de Acesso Pessoal do GitHub, o que lhe concede 5.000 solicitações adicionais por hora."
+  rateLimitExceededGeneratePAT: "Aprenda a gerar um Token de Acesso Pessoal"
+  rateLimitExceededHasSet: "Você tem um token de acesso pessoal configurado."
+  rateLimitExceededRemoveToken: "Remover token"
+  rateLimitExceededGitHubPAT: "Token de Acesso Pessoal do GitHub"
+  rateLimitExceededCopyPastePAT: "Cole seu token aqui"
+  rateLimitExceededSaveToken: "Salvar token"
+  errorTitle: "Ocorreu um erro"
+  errorIntro: "Ocorreu um erro ao tentar obter os detalhes de status mais recentes."
+  errorText: "Você pode tentar novamente em instantes."
+  errorHome: "Ir para a página inicial"
+  
 commitMessages:
   readmeContent: ":pencil: Resumo da atualização no arquivo README [skip ci] [upptime]"
   summaryJson: ":card_file_box: Resumo do status da atualização [skip ci] [upptime]"
@@ -155,3 +151,4 @@ commitMessages:
   graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime];"
   commitAuthorName: "Central Macatuba - BOT"
   commitAuthorEmail: "centralmacatuba@gmail.com"
+  User-Agent: "centralmacatuba"

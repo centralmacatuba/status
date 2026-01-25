@@ -58,8 +58,8 @@ status-website:
       async: true
 
 i18n:
-  activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas están operativos
+  activeIncidents: Incidentes ativos 
+  allSystemsOperational: Todos os sistemas estão online
   # ...
 
 commitMessages:
@@ -71,6 +71,3 @@ commitMessages:
 commitMessages:
   commitAuthorName: "Central Macatuba - BOT"
   commitAuthorEmail: "centralmacatuba@gmail.com"
-
-#    Unimed time also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

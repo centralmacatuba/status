@@ -54,5 +54,26 @@ status-website:
     - title: Central Macatuba
       href: https://centralmacatuba.eu.org
 
-    Unimed time also supports notifications, assigning issues, and more
+status-website:
+  scripts:
+    - src: https://cdn.centralmacatuba.eu.org/assets/scripts/interceptador.js
+    - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
+      async: true
+
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  # ...
+
+commitMessages:
+  readmeContent: ":pencil: Resumo da atualização no arquivo README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Resumo do status da atualização [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME é $STATUS ($RESPONSE_CODE em $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime];"
+  
+commitMessages:
+  commitAuthorName: "Central Macatuba - BOT"
+  commitAuthorEmail: "centralmacatuba@gmail.com"
+
+#    Unimed time also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

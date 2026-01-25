@@ -78,8 +78,34 @@ status-website:
   faviconSvg: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo_pequeno.svg
 
 i18n:
-  activeIncidents: Incidentes ativos 
-  allSystemsOperational: Todos os sistemas estão online
+  activeIncidents: "Incidentes ativos"
+  allSystemsOperational: "Todos os sistemas estão online"
+  Baseboard: "Esta página é [código aberto] ($REPO) , desenvolvida por [Upptime] (https://upptime.js.org)"
+  url: "URL"
+  status: "Status"
+  history: "Histórico"
+  responseTime: "Tempo de Respota"
+  uptime: "Tempo de atividade"
+  up: "🟩 Onilne"
+  degraded: "🟨 Instável"
+  down: "🟥 Offline"
+  responseTimeGraphAlt: "Gráfico de tempo de resposta"
+  ms: "ms"
+  responseTimeDay: "Tempo de resposta de 24 horas"
+  responseTimeWeek: "Tempo de resposta de 7 dias"
+  responseTimeMonth: "Tempo de resposta de 30 dias"
+  responseTimeYear: "Tempo de resposta de 1 ano"
+  uptime: "Tempo de atividade total"
+  uptimeDay: "Tempo de atividade de 24 horas"
+  uptimeWeek: "Tempo de atividade de 7 dias"
+  uptimeMonth: "Tempo de atividade de 30 dias"
+  uptimeYear: "Tempo de atividade de 1 ano"
+  liveStatus: "Status ao Vivo"
+  liveStatusHtmlComment: "<!--status ao vivo-->"
+  allSystemsOperational: "🟩 Todos os sistemas operacionais"
+  degradedPerformance: "🟨 Desempenho degradado"
+  completeOutage: "🟥 Falha total"
+  partialOutage: "🟧 Interrupção parcial"
   # ...
 
 commitMessages:

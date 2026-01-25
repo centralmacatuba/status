@@ -59,7 +59,7 @@ status-website:
   baseUrl: /status
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/favicon.ico
-  name: Upptime
+  name: Central Macatuba - Status (upptime/github.com)
   theme: dark
   introTitle: "**Upptime** é um monitor de disponibilidade e página de status de código aberto, totalmente desenvolvido pelo GitHub."
   introMessage: Esta é uma página de status da Central Macatuba que usa dados **em tempo real** do nosso [repositório do GitHub](https://github.com/centralmacatuba/status). Não requer servidor — apenas GitHub Actions, Issues e Pages. [**Obtenha a sua gratuitamente**](https://github.com/upptime/upptime) 

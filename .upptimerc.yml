@@ -3,6 +3,10 @@ owner: centralmacatuba # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
+  #assignees:
+        #- centralmacatuba
+        #- desenvolvedor-ee
+  
   - name: Site principal
     url: https://centralmacatuba.eu.org
     slug: principal  
@@ -54,8 +58,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo.png
+  logoUrl: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/favicon.ico
   name: Upptime
+  theme: dark
   introTitle: "**Upptime** é um monitor de disponibilidade e página de status de código aberto, totalmente desenvolvido pelo GitHub."
   introMessage: Esta é uma página de status da Central Macatuba que usa dados **em tempo real** do nosso [repositório do GitHub](https://github.com/centralmacatuba/status). Não requer servidor — apenas GitHub Actions, Issues e Pages. [**Obtenha a sua gratuitamente**](https://github.com/upptime/upptime) 
   navbar:
@@ -69,6 +74,8 @@ status-website:
     - src: https://cdn.centralmacatuba.eu.org/assets/scripts/interceptador.js
     - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
       async: true
+  favicon: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo_pequeno.png
+  faviconSvg: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo_pequeno.svg
 
 i18n:
   activeIncidents: Incidentes ativos 

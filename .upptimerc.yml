@@ -33,10 +33,7 @@ sites:
     url: https://jogos.interno.centralmacatuba.eu.org
   - name: Central Macatuba - Teste
     url: https://teste.centralmacatuba.eu.org
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -44,8 +41,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** é um monitor de disponibilidade e página de status de código aberto, totalmente desenvolvido pelo GitHub."
+  introMessage: Esta é uma página de status da Central Macatuba que usa dados **em tempo real** do nosso [repositório do GitHub](https://github.com/centralmacatuba/status). Não requer servidor — apenas GitHub Actions, Issues e Pages. [**Obtenha a sua gratuitamente**](https://github.com/upptime/upptime) 
   navbar:
     - title: Status
       href: /

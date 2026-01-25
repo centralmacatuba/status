@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.eu.org.ico",
     "slug": "principal",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1
+      "2026-01-25": 30
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1
+      "2026-01-25": 30
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/privada.api.centralmacatuba.eu.org.ico",
     "slug": "api-privda",
     "status": "down",
-    "uptime": "1.82%",
-    "uptimeDay": "1.82%",
-    "uptimeWeek": "1.82%",
-    "uptimeMonth": "1.82%",
-    "uptimeYear": "1.82%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 10
+      "2026-01-25": 39
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodejs.api.centralmacatuba.eu.org.ico",
     "slug": "api-nodejs",
     "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
     }
   },
   {
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcp.centralmacatuba.eu.org.ico",
     "slug": "mcp",
     "status": "down",
-    "uptime": "3.14%",
-    "uptimeDay": "3.14%",
-    "uptimeWeek": "3.14%",
-    "uptimeMonth": "3.14%",
-    "uptimeYear": "3.14%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
     }
   },
   {
@@ -161,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mofh.centralmacatuba.eu.org.ico",
     "slug": "mofh",
     "status": "down",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
     }
   },
   {
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
     }
   },
   {
@@ -201,18 +201,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcraft.centralmacatuba.eu.org.ico",
     "slug": "mcraft",
     "status": "down",
-    "uptime": "2.39%",
-    "uptimeDay": "2.39%",
-    "uptimeWeek": "2.39%",
-    "uptimeMonth": "2.39%",
-    "uptimeYear": "2.39%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
     }
   },
   {
@@ -220,66 +220,6 @@
     "url": "https://relay.eaglercraft.centralmacatuba.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/relay.eaglercraft.centralmacatuba.eu.org.ico",
     "slug": "eaglercraft-relay",
-    "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-25": 0
-    }
-  },
-  {
-    "name": "Central Macatuba - Cloudflare",
-    "url": "https://cloudflare.centralmacatuba.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/cloudflare.centralmacatuba.eu.org.ico",
-    "slug": "cloudflare",
-    "status": "down",
-    "uptime": "4.01%",
-    "uptimeDay": "4.01%",
-    "uptimeWeek": "4.01%",
-    "uptimeMonth": "4.01%",
-    "uptimeYear": "4.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-25": 0
-    }
-  },
-  {
-    "name": "Central Macatuba - Jogos",
-    "url": "https://jogos.interno.centralmacatuba.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/jogos.interno.centralmacatuba.eu.org.ico",
-    "slug": "jogos",
-    "status": "down",
-    "uptime": "2.78%",
-    "uptimeDay": "2.78%",
-    "uptimeWeek": "2.78%",
-    "uptimeMonth": "2.78%",
-    "uptimeYear": "2.78%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-25": 0
-    }
-  },
-  {
-    "name": "Central Macatuba - Teste",
-    "url": "https://teste.centralmacatuba.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/teste.centralmacatuba.eu.org.ico",
-    "slug": "teste",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -292,7 +232,67 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 0
+      "2026-01-25": 30
+    }
+  },
+  {
+    "name": "Central Macatuba - Cloudflare",
+    "url": "https://cloudflare.centralmacatuba.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/cloudflare.centralmacatuba.eu.org.ico",
+    "slug": "cloudflare",
+    "status": "down",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-01-25": 30
+    }
+  },
+  {
+    "name": "Central Macatuba - Jogos",
+    "url": "https://jogos.interno.centralmacatuba.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/jogos.interno.centralmacatuba.eu.org.ico",
+    "slug": "jogos",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-01-25": 30
+    }
+  },
+  {
+    "name": "Central Macatuba - Teste",
+    "url": "https://teste.centralmacatuba.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/teste.centralmacatuba.eu.org.ico",
+    "slug": "teste",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-01-25": 30
     }
   }
 ]

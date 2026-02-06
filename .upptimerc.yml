@@ -8,49 +8,46 @@ sites:
         #- desenvolvedor-ee
   
   - name: Site principal
-    url: https://centralmacatuba.eu.org
-    slug: principal  
-  - name: Site principal (segundario)
     url: https://centralmacatuba.qzz.io
-    slug: segundario
-  - name: Site principal (terceiro)
+    slug: principal
+  - name: Site principal (segundario)
     url: https://centralmacatuba.dpdns.org
-    slug: terceiro
+    slug: segundario
   - name: CDN Macatuba
-    url: https://cdn.centralmacatuba.eu.org
+    url: https://cdn.centralmacatuba.qzz.io
     slug: cdn
   - name: API Privada
-    url: https://privada.api.centralmacatuba.eu.org
+    url: https://privada.api.centralmacatuba.qzz.io
     slug: api-privda
   - name: API Publica
-    url: https://publica.api.centralmacatuba.eu.org
+    url: https://publica.api.centralmacatuba.qzz.io
     slug: api-publica
   - name: API NodeJS
-    url: https://nodejs.api.centralmacatuba.eu.org
+    url: https://nodejs.api.centralmacatuba.qzz.io
     slug: api-nodejs
   - name: Central Macatuba - MCP   
-    url: https://mcp.centralmacatuba.eu.org
+    url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
   - name: Central Macatuba - MOFH
-    url: https://mofh.centralmacatuba.eu.org
+    url: https://mofh.centralmacatuba.qzz.io
     slug: mofh
   - name: Central Macatuba - DNS
-    url: https://dns.centralmacatuba.eu.org
+    url: https://dns.centralmacatuba.qzz.io
     slug: dns
   - name: Central Macatuba - Mcraft
-    url: https://mcraft.centralmacatuba.eu.org
+    url: https://mcraft.centralmacatuba.qzz.io
     slug: mcraft
   - name: Central Macatuba - Eaglercraft Relay
-    url: https://relay.eaglercraft.centralmacatuba.eu.org
+    url: https://relay.eaglercraft.centralmacatuba.qzz.io
     slug: eaglercraft-relay
   - name: Central Macatuba - Cloudflare 
-    url: https://cloudflare.centralmacatuba.eu.org
+    url: https://cloudflare.centralmacatuba.qzz.io
     slug: cloudflare
   - name: Central Macatuba - Jogos
-    url: https://jogos.interno.centralmacatuba.eu.org
+    url: https://jogos.interno.centralmacatuba.qzz.io
     slug: jogos
   - name: Central Macatuba - Teste
-    url: https://teste.centralmacatuba.eu.org
+    url: https://teste.centralmacatuba.qzz.io
     slug: teste
     
 status-website:
@@ -58,7 +55,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/favicon.ico
+  logoUrl: https://cdn.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/favicon.ico
   name: Central Macatuba - Status (upptime/github.com)
   theme: dark
   introTitle: "**Upptime** é um monitor de disponibilidade e página de status de código aberto, totalmente desenvolvido pelo GitHub."
@@ -69,13 +66,13 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Central Macatuba
-      href: https://centralmacatuba.eu.org
+      href: https://centralmacatuba.qzz.io
   scripts:
-    - src: https://cdn.centralmacatuba.eu.org/assets/scripts/interceptador.js
+    - src: https://cdn.centralmacatuba.qzz.io/assets/scripts/interceptador.js
     - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
       async: true
-  favicon: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo_pequeno.png
-  faviconSvg: https://cdn.centralmacatuba.eu.org/ARQUIVOS/IMAGENS/logo_pequeno.svg
+  favicon: https://cdn.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png
+  faviconSvg: https://cdn.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.svg
 
 i18n:
   activeIncidents: "Incidentes ativos"
@@ -150,5 +147,5 @@ commitMessages:
   statusChange: "$EMOJI $SITE_NAME é $STATUS ($RESPONSE_CODE em $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime];"
   commitAuthorName: "Central Macatuba - BOT"
-  commitAuthorEmail: "centralmacatuba@gmail.com"
+  commitAuthorEmail: "bot@centralmacatuba.qzz.io"
   User-Agent: "centralmacatuba"

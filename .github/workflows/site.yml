@@ -45,4 +45,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Central Macatuba - BOT"
-          user_email: "centralmacatuba@gmail.com"
+          user_email: "bot@centralmacatuba.qzz.io"

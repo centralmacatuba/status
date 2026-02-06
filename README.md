@@ -1,6 +1,6 @@
 # [📈 Live Status](https://centralmacatuba.github.io/status): <!--live status--> **🟥 Falha total**
 
-This repository contains the open-source uptime monitor and status page for [Central Macatuba](https://centralmacatuba.eu.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Central Macatuba](https://centralmacatuba.qzz.io), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/centralmacatuba/status/workflows/Uptime%20CI/badge.svg)](https://github.com/centralmacatuba/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/centralmacatuba/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/centralmacatuba/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -39,5 +39,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 -
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Central Macatuba](https://centralmacatuba.eu.org) e [Desenvolvedor EE](https://desenvolvedoree.qzz.io).
+- Code: [MIT](./LICENSE) © [Central Macatuba](https://centralmacatuba.qzz.io) e [Desenvolvedor EE](https://desenvolvedoree.qzz.io).
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

@@ -68,5 +68,5 @@ jobs:
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
-          user_name: "Central Macatuba - BOT"
-          user_email: "bot@centralmacatuba.qzz.io"
+          user_name: "Desenvolvedor EE - BOT"
+          user_email: "bot@desenvolvedoree.qzz.io"

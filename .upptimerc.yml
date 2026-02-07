@@ -146,6 +146,6 @@ commitMessages:
   summaryJson: ":card_file_box: Resumo do status da atualização [skip ci] [upptime]"
   statusChange: "$EMOJI $SITE_NAME é $STATUS ($RESPONSE_CODE em $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime];"
-  commitAuthorName: "Central Macatuba - BOT"
-  commitAuthorEmail: "bot@centralmacatuba.qzz.io"
+  commitAuthorName: "Desenvolvedor EE - BOT"
+  commitAuthorEmail: "bot@desenvolvedoree.qzz.io"
   User-Agent: "centralmacatuba"

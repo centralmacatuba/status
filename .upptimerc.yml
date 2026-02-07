@@ -6,6 +6,7 @@ sites:
   #assignees:
         #- centralmacatuba
         #- desenvolvedor-ee
+        #- desenvolvedoree-bot
   
   - name: Site principal
     url: https://centralmacatuba.qzz.io
@@ -69,6 +70,7 @@ status-website:
       href: https://centralmacatuba.qzz.io
   scripts:
     - src: https://cdn.centralmacatuba.qzz.io/assets/scripts/interceptador.js
+      async: true
     - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
       async: true
   favicon: https://cdn.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png
@@ -97,7 +99,7 @@ i18n:
   uptimeMonth: "Tempo de atividade de 30 dias"
   uptimeYear: "Tempo de atividade de 1 ano"
   liveStatus: "Status ao vivo"
-  liveStatusHtmlComment: ""
+  liveStatusHtmlComment: "Live Status/Status ao vivo"
   degradedPerformance: "🟨 Desempenho degradado"
   completeOutage: "🟥 Falha total"
   partialOutage: "🟧 Interrupção parcial"

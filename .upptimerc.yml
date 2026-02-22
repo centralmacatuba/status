@@ -29,12 +29,9 @@ sites:
   - name: Central Macatuba - MCP   
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
-  - name: Central Macatuba - MOFH
-    url: https://mofh.centralmacatuba.qzz.io
-    slug: mofh
-  - name: Central Macatuba - DNS
-    url: https://dns.centralmacatuba.qzz.io
-    slug: dns
+  - name: Central Macatuba - Host
+    url: https://host.centralmacatuba.qzz.io
+    slug: host
   - name: Central Macatuba - Mcraft
     url: https://mcraft.centralmacatuba.qzz.io
     slug: mcraft
@@ -48,7 +45,7 @@ sites:
     url: https://jogos.interno.centralmacatuba.qzz.io
     slug: jogos
   - name: Central Macatuba - Teste
-    url: https://teste.centralmacatuba.qzz.io
+    url: https://teste.centralmacatuba.dpdns.org
     slug: teste
     
 status-website:

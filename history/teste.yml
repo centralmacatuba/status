@@ -1,7 +1,7 @@
-url: https://teste.centralmacatuba.qzz.io
-status: up
-code: 200
-responseTime: 227
-lastUpdated: 2026-02-21T23:29:16.533Z
+url: https://teste.centralmacatuba.dpdns.org
+status: down
+code: 500
+responseTime: 459
+lastUpdated: 2026-02-22T14:34:23.432Z
 startTime: 2026-01-25T19:26:52.738Z
 generator: Upptime <https://github.com/upptime/upptime>

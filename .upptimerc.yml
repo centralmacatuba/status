@@ -29,19 +29,19 @@ sites:
   - name: Central Macatuba - MCP   
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
-  - name: Central Macatuba - Host
-    url: https://host.centralmacatuba.qzz.io
-    slug: host
-  - name: Central Macatuba - Mcraft
-    url: https://mcraft.centralmacatuba.qzz.io
-    slug: mcraft
+#  - name: Central Macatuba - Host
+#    url: https://host.centralmacatuba.qzz.io
+#    slug: host
+#  - name: Central Macatuba - Mcraft
+#    url: https://mcraft.centralmacatuba.qzz.io
+#    slug: mcraft
   - name: Central Macatuba - Eaglercraft Relay
     url: https://relay.eaglercraft.centralmacatuba.qzz.io
     slug: eaglercraft-relay
   - name: Central Macatuba - CDN (R2) 
     url: https://cdn.r2.centralmacatuba.qzz.io
     slug: cloudflare
-  - name: Central Macatuba - Jogos
+  - name: Central Macatuba - Jogos EE
     url: https://jogos.interno.centralmacatuba.qzz.io
     slug: jogos
   - name: Central Macatuba - Teste

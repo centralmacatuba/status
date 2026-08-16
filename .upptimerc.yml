@@ -39,7 +39,7 @@ sites:
     url: https://relay.eaglercraft.centralmacatuba.qzz.io
     slug: eaglercraft-relay
   - name: Central Macatuba - CDN (R2) 
-    url: https://cdn.r2.centralmacatuba.qzz.io
+    url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
     slug: cloudflare
   - name: Central Macatuba - Jogos EE
     url: https://jogos.interno.centralmacatuba.qzz.io

@@ -4,11 +4,11 @@
     "url": "https://centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.qzz.io.ico",
     "slug": "principal",
-    "status": "up",
+    "status": "down",
     "uptime": "92.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "92.99%",
     "time": 0,
     "timeDay": 0,
@@ -34,7 +34,8 @@
       "2026-02-28": 53,
       "2026-03-31": 28,
       "2026-04-30": 74,
-      "2026-08-15": 22
+      "2026-08-15": 22,
+      "2026-08-17": 2
     }
   },
   {
@@ -42,11 +43,11 @@
     "url": "https://centralmacatuba.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.dpdns.org.ico",
     "slug": "segundario",
-    "status": "up",
+    "status": "down",
     "uptime": "93.21%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "93.21%",
     "time": 0,
     "timeDay": 0,
@@ -81,7 +82,7 @@
       "2026-05-19": 150,
       "2026-08-08": 24,
       "2026-08-15": 20,
-      "2026-08-17": 23
+      "2026-08-17": 25
     }
   },
   {
@@ -89,10 +90,10 @@
     "url": "https://cdn.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.centralmacatuba.qzz.io.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "93.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.02%",
     "time": 0,
@@ -118,7 +119,8 @@
       "2026-02-07": 494,
       "2026-02-28": 22,
       "2026-04-18": 42,
-      "2026-08-15": 17
+      "2026-08-15": 17,
+      "2026-08-17": 2
     }
   },
   {
@@ -180,12 +182,12 @@
     "url": "https://mcp.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/mcp.centralmacatuba.qzz.io.ico",
     "slug": "mcp",
-    "status": "up",
-    "uptime": "93.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "93.07%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.06%",
+    "uptimeYear": "93.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -206,7 +208,8 @@
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
-      "2026-02-07": 494
+      "2026-02-07": 494,
+      "2026-08-17": 1
     }
   },
   {
@@ -268,12 +271,12 @@
     "url": "https://teste.centralmacatuba.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/teste.centralmacatuba.dpdns.org.ico",
     "slug": "teste",
-    "status": "up",
-    "uptime": "86.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "86.85%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "86.84%",
+    "uptimeYear": "86.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -312,7 +315,8 @@
       "2026-04-02": 81,
       "2026-04-19": 42,
       "2026-05-11": 145,
-      "2026-08-08": 23
+      "2026-08-08": 23,
+      "2026-08-17": 1
     }
   }
 ]

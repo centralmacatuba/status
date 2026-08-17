@@ -42,11 +42,11 @@
     "url": "https://centralmacatuba.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.dpdns.org.ico",
     "slug": "segundario",
-    "status": "down",
+    "status": "up",
     "uptime": "93.21%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "93.21%",
     "time": 0,
     "timeDay": 0,
@@ -81,7 +81,7 @@
       "2026-05-19": 150,
       "2026-08-08": 24,
       "2026-08-15": 20,
-      "2026-08-17": 1
+      "2026-08-17": 23
     }
   },
   {

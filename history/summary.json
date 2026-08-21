@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.qzz.io.ico",
     "slug": "principal",
     "status": "up",
-    "uptime": "91.46%",
+    "uptime": "91.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.95%",
-    "uptimeMonth": "88.71%",
-    "uptimeYear": "91.46%",
+    "uptimeWeek": "49.39%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "91.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -35,7 +35,7 @@
       "2026-03-31": 28,
       "2026-04-30": 74,
       "2026-08-15": 22,
-      "2026-08-21": 66,
+      "2026-08-21": 224,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -47,11 +47,11 @@
     "url": "https://centralmacatuba.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.dpdns.org.ico",
     "slug": "segundario",
-    "status": "up",
+    "status": "down",
     "uptime": "93.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "93.14%",
     "time": 0,
     "timeDay": 0,
@@ -87,7 +87,8 @@
       "2026-08-08": 24,
       "2026-08-15": 20,
       "2026-08-17": 508,
-      "2026-08-20": 65
+      "2026-08-20": 65,
+      "2026-08-21": 7
     }
   },
   {
@@ -276,12 +277,12 @@
     "url": "https://teste.centralmacatuba.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/teste.centralmacatuba.dpdns.org.ico",
     "slug": "teste",
-    "status": "up",
-    "uptime": "87.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
+    "status": "down",
+    "uptime": "87.05%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "87.04%",
+    "uptimeYear": "87.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -322,7 +323,8 @@
       "2026-05-11": 145,
       "2026-08-08": 23,
       "2026-08-17": 29,
-      "2026-08-19": 28
+      "2026-08-19": 28,
+      "2026-08-21": 0
     }
   }
 ]

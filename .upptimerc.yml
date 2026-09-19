@@ -17,32 +17,56 @@ sites:
   - name: CDN Macatuba
     url: https://cdn.centralmacatuba.qzz.io
     slug: cdn
+  - name: Central Macatuba - CDN (R2) 
+    url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
+    slug: cloudflare
   - name: API Privada
     url: https://privada.api.centralmacatuba.qzz.io
     slug: api-privda
   - name: API Publica
     url: https://publica.api.centralmacatuba.qzz.io
     slug: api-publica
-  - name: API NodeJS
-    url: https://nodejs.api.centralmacatuba.qzz.io
-    slug: api-nodejs
+  - name: API Jogos EE (Python)
+    url: https://jogosee.api.centralmacatuba.qzz.io
+    slug: api-jogosee
   - name: Central Macatuba - MCP   
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
 #  - name: Central Macatuba - Host
 #    url: https://host.centralmacatuba.qzz.io
 #    slug: host
-#  - name: Central Macatuba - Mcraft
-#    url: https://mcraft.centralmacatuba.qzz.io
-#    slug: mcraft
-  - name: Central Macatuba - Eaglercraft Relay
-    url: https://relay.eaglercraft.centralmacatuba.qzz.io
-    slug: eaglercraft-relay
-  - name: Central Macatuba - CDN (R2) 
-    url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
-    slug: cloudflare
+#  - name: Central Macatuba - Host Dashboard
+#    url: https://dash.host.centralmacatuba.qzz.io
+#    slug: host-dash
+#  - name: Central Macatuba - Host API
+#    url: https://api.host.centralmacatuba.qzz.io
+#    slug: host-api
+#  - name: Central Macatuba - Host NS1
+#    url: https://ns2.host.centralmacatuba.qzz.io
+#    slug: host-ns1
+#  - name: Central Macatuba - Host NS2
+#    url: https://ns2.host.centralmacatuba.qzz.io
+#    slug: host-ns2
+#  - name: Central Macatuba - Minecraft
+#    url: https://minecraft.centralmacatuba.qzz.io
+#    slug: minecraft
+#  - name: Central Macatuba - Eaglercraft Relay
+#    url: https://relay.eaglercraft.centralmacatuba.qzz.io
+#    slug: eaglercraft-relay
+#  - name: Central Macatuba - Mcraft Proxy
+#    url: https://proxy.mcraft.centralmacatuba.qzz.io
+#    slug: mcraft-proxy
+  - name: Central Macatuba - Mcraft Maps
+    url: https://maps.mcraft.centralmacatuba.qzz.io
+    slug: mcraft-maps
+#  - name: Central Macatuba - Mcraft P2P
+#    url: https://p2p.mcraft.centralmacatuba.qzz.io
+#    slug: mcraft-p2p
+#  - name: Central Macatuba - Mcraft Proxy Texture
+#    url: https://texture.proxy.mcraft.centralmacatuba.qzz.io
+#    slug: mcraft-proxy-texture
   - name: Central Macatuba - Jogos EE
-    url: https://jogos.interno.centralmacatuba.qzz.io
+    url: https://jogosee.centralmacatuba.qzz.io
     slug: jogos
   - name: Central Macatuba - Teste
     url: https://teste.centralmacatuba.dpdns.org

@@ -26,9 +26,9 @@ sites:
   - name: API Publica
     url: https://publica.api.centralmacatuba.qzz.io
     slug: api-publica
-  - name: API Jogos EE (Python)
-    url: https://jogosee.api.centralmacatuba.qzz.io
-    slug: api-jogosee
+#  - name: API Jogos EE (Python)
+#    url: https://jogosee.api.centralmacatuba.qzz.io
+#    slug: api-jogosee
   - name: Central Macatuba - MCP   
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
@@ -67,7 +67,7 @@ sites:
 #    slug: mcraft-proxy-texture
   - name: Central Macatuba - Jogos EE
     url: https://jogosee.centralmacatuba.qzz.io
-    slug: jogos
+    slug: jogosee
   - name: Central Macatuba - Teste
     url: https://teste.centralmacatuba.dpdns.org
     slug: teste

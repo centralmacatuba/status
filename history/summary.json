@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.qzz.io.ico",
     "slug": "principal",
     "status": "up",
-    "uptime": "91.01%",
+    "uptime": "91.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.01%",
+    "uptimeYear": "91.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -179,38 +179,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/publica.api.centralmacatuba.qzz.io.ico",
     "slug": "api-publica",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 1
-    }
-  },
-  {
-    "name": "API Jogos EE (Python)",
-    "url": "https://jogosee.api.centralmacatuba.qzz.io",
-    "icon": "https://icons.duckduckgo.com/ip3/jogosee.api.centralmacatuba.qzz.io.ico",
-    "slug": "api-jogosee",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-09-30": 1
+      "2026-09-30": 46
     }
   },
   {
@@ -270,19 +250,21 @@
     "name": "Central Macatuba - Jogos EE",
     "url": "https://jogosee.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/jogosee.centralmacatuba.qzz.io.ico",
-    "slug": "jogos",
+    "slug": "jogosee",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "42.27%",
+    "uptimeDay": "42.27%",
+    "uptimeWeek": "42.27%",
+    "uptimeMonth": "42.27%",
+    "uptimeYear": "42.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-30": 0
+    }
   },
   {
     "name": "Central Macatuba - Teste",

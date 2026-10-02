@@ -61,7 +61,7 @@ sites:
     url: https://maps.mcraft.centralmacatuba.qzz.io
     slug: mcraft-maps
   - name: Central Macatuba - Mcraft (Cloudflare R2)
-    url: https://mcraft.r2.centralmacatuba.qzz.io
+    url: https://mcraft.r2.centralmacatuba.qzz.io/status.txt
     slug: r2-mcraft
 #  - name: Central Macatuba - Mcraft P2P
 #    url: https://p2p.mcraft.centralmacatuba.qzz.io

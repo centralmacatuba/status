@@ -3,11 +3,6 @@ owner: centralmacatuba # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
-  #assignees:
-        #- centralmacatuba
-        #- desenvolvedor-ee
-        #- desenvolvedoree-bot
-  
   - name: Site principal
     url: https://centralmacatuba.qzz.io
     slug: principal
@@ -20,12 +15,12 @@ sites:
   - name: Central Macatuba - CDN (R2) 
     url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
     slug: cloudflare
-  - name: API Privada
-    url: https://privada.api.centralmacatuba.qzz.io
-    slug: api-privda
-  - name: API Publica
-    url: https://publica.api.centralmacatuba.qzz.io
-    slug: api-publica
+#  - name: API Privada
+#    url: https://privada.api.centralmacatuba.qzz.io
+#    slug: api-privda
+#  - name: API Publica
+#    url: https://publica.api.centralmacatuba.qzz.io
+#    slug: api-publica
 #  - name: API Jogos EE (Python)
 #    url: https://jogosee.api.centralmacatuba.qzz.io
 #    slug: api-jogosee
@@ -50,15 +45,24 @@ sites:
 #  - name: Central Macatuba - Minecraft
 #    url: https://minecraft.centralmacatuba.qzz.io
 #    slug: minecraft
+#  - name: Central Macatuba - EaglerCraft
+#    url: https://eaglercraft.centralmacatuba.qzz.io
+#    slug: eaglercraft
 #  - name: Central Macatuba - Eaglercraft Relay
 #    url: https://relay.eaglercraft.centralmacatuba.qzz.io
 #    slug: eaglercraft-relay
+#  - name: Central Macatuba - Mcraft
+#    url: https://mcraft.centralmacatuba.qzz.io
+#    slug: mcrafr
 #  - name: Central Macatuba - Mcraft Proxy
 #    url: https://proxy.mcraft.centralmacatuba.qzz.io
 #    slug: mcraft-proxy
   - name: Central Macatuba - Mcraft Maps
     url: https://maps.mcraft.centralmacatuba.qzz.io
     slug: mcraft-maps
+  - name: Central Macatuba - Mcraft (Cloudflare R2)
+    url: https://mcraft.r2.centralmacatuba.qzz.io
+    slug: r2-mcraft
 #  - name: Central Macatuba - Mcraft P2P
 #    url: https://p2p.mcraft.centralmacatuba.qzz.io
 #    slug: mcraft-p2p
@@ -71,6 +75,11 @@ sites:
   - name: Central Macatuba - Teste
     url: https://teste.centralmacatuba.dpdns.org
     slug: teste
+
+assignees:
+        - centralmacatuba
+        - desenvolvedor-ee
+        - desenvolvedoree-bot
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

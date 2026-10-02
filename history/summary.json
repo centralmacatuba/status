@@ -209,23 +209,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Central Macatuba - Mcraft (Cloudflare R2)",
+    "name": "Central Macatuba - Mcraft (R2)",
     "url": "https://mcraft.r2.centralmacatuba.qzz.io/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mcraft.r2.centralmacatuba.qzz.io.ico",
     "slug": "r2-mcraft",
-    "status": "down",
-    "uptime": "7.99%",
-    "uptimeDay": "7.99%",
-    "uptimeWeek": "7.99%",
-    "uptimeMonth": "7.99%",
-    "uptimeYear": "7.99%",
+    "status": "up",
+    "uptime": "6.24%",
+    "uptimeDay": "6.24%",
+    "uptimeWeek": "6.24%",
+    "uptimeMonth": "6.24%",
+    "uptimeYear": "6.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-02": 3
+      "2026-10-02": 9
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-02": 1122,
+      "2026-10-02": 1129,
       "2026-10-01": 1440,
       "2026-09-30": 191
     }

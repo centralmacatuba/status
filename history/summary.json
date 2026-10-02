@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcraft.r2.centralmacatuba.qzz.io.ico",
     "slug": "r2-mcraft",
     "status": "down",
-    "uptime": "33.95%",
-    "uptimeDay": "33.95%",
-    "uptimeWeek": "33.95%",
-    "uptimeMonth": "33.95%",
-    "uptimeYear": "33.95%",
+    "uptime": "25.52%",
+    "uptimeDay": "25.52%",
+    "uptimeWeek": "25.52%",
+    "uptimeMonth": "25.52%",
+    "uptimeYear": "25.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-02": 0
+      "2026-10-02": 1
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-02": 1120,
+      "2026-10-02": 1121,
       "2026-10-01": 1440,
       "2026-09-30": 191
     }

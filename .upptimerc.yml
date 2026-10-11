@@ -15,6 +15,9 @@ sites:
   - name: Central Macatuba - CDN (R2) 
     url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
     slug: cloudflare
+  - name: Status
+    url: https://status.centralmacatuba.qzz.io
+    slug: status
 #  - name: API Privada
 #    url: https://privada.api.centralmacatuba.qzz.io
 #    slug: api-privda
@@ -54,9 +57,9 @@ sites:
 #  - name: Central Macatuba - Mcraft P2P
 #    url: https://p2p.mcraft.centralmacatuba.qzz.io
 #    slug: mcraft-p2p
-  - name: Central Macatuba - Jogos EE
-    url: https://jogosee.centralmacatuba.qzz.io
-    slug: jogosee
+#  - name: Central Macatuba - Jogos EE
+#    url: https://jogosee.centralmacatuba.qzz.io
+#    slug: jogosee
   - name: Central Macatuba - Teste
     url: https://teste.centralmacatuba.dpdns.org
     slug: teste

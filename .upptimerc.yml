@@ -27,21 +27,6 @@ sites:
   - name: Central Macatuba - MCP   
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
-#  - name: Central Macatuba - Host
-#    url: https://host.centralmacatuba.qzz.io
-#    slug: host
-#  - name: Central Macatuba - Host Dashboard
-#    url: https://dash.host.centralmacatuba.qzz.io
-#    slug: host-dash
-#  - name: Central Macatuba - Host API
-#    url: https://api.host.centralmacatuba.qzz.io
-#    slug: host-api
-#  - name: Central Macatuba - Host NS1
-#    url: https://ns2.host.centralmacatuba.qzz.io
-#    slug: host-ns1
-#  - name: Central Macatuba - Host NS2
-#    url: https://ns2.host.centralmacatuba.qzz.io
-#    slug: host-ns2
 #  - name: Central Macatuba - Minecraft
 #    url: https://minecraft.centralmacatuba.qzz.io
 #    slug: minecraft
@@ -57,6 +42,9 @@ sites:
 #  - name: Central Macatuba - Mcraft Proxy
 #    url: https://proxy.mcraft.centralmacatuba.qzz.io
 #    slug: mcraft-proxy
+  - name: Central Macatuba - Mcraft Proxy Texture
+    url: https://texture.proxy.mcraft.centralmacatuba.qzz.io
+    slug: mcraft-proxy-texture
   - name: Central Macatuba - Mcraft Maps
     url: https://maps.mcraft.centralmacatuba.qzz.io
     slug: mcraft-maps
@@ -66,9 +54,6 @@ sites:
 #  - name: Central Macatuba - Mcraft P2P
 #    url: https://p2p.mcraft.centralmacatuba.qzz.io
 #    slug: mcraft-p2p
-#  - name: Central Macatuba - Mcraft Proxy Texture
-#    url: https://texture.proxy.mcraft.centralmacatuba.qzz.io
-#    slug: mcraft-proxy-texture
   - name: Central Macatuba - Jogos EE
     url: https://jogosee.centralmacatuba.qzz.io
     slug: jogosee
@@ -84,8 +69,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /status
-  # baseUrl: /your-repo-name
+  cname: status.centralmacatuba.qzz.io
+  #baseUrl: /status
   logoUrl: https://cdn.r2.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/favicon.ico
   name: Central Macatuba - Status (upptime/github.com)
   theme: dark
@@ -99,8 +84,6 @@ status-website:
     - title: Central Macatuba
       href: https://centralmacatuba.qzz.io
   scripts:
-    - src: https://cdn.centralmacatuba.qzz.io/assets/scripts/interceptador.js
-      async: true
     - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
       async: true
   favicon: https://cdn.r2.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png

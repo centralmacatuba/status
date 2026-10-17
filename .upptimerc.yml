@@ -20,7 +20,7 @@ sites:
     slug: status
   - name: Central Macatuba - WebSub HUB
     url: https://webshub.centralmacatuba.qzz.io/health
-    url: websub
+    slug: websub
 #  - name: API Privada
 #    url: API_PRIVADA_URL
 #    slug: api-privda

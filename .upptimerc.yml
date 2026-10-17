@@ -9,17 +9,20 @@ sites:
   - name: Site principal (segundario)
     url: https://centralmacatuba.dpdns.org
     slug: segundario
-  - name: CDN Macatuba
+  - name: Central Macatuba - CDN
     url: https://cdn.centralmacatuba.qzz.io
     slug: cdn
   - name: Central Macatuba - CDN (R2) 
     url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
     slug: cloudflare
-  - name: Status
+  - name: Central Macatuba - Status
     url: https://status.centralmacatuba.qzz.io
     slug: status
+  - name: Central Macatuba - WebSub HUB
+    url: https://webshub.centralmacatuba.qzz.io/health
+    url: websub
 #  - name: API Privada
-#    url: https://privada.api.centralmacatuba.qzz.io
+#    url: API_PRIVADA_URL
 #    slug: api-privda
 #  - name: API Publica
 #    url: https://publica.api.centralmacatuba.qzz.io
@@ -31,19 +34,29 @@ sites:
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
 #  - name: Central Macatuba - Minecraft
-#    url: https://minecraft.centralmacatuba.qzz.io
+#    check: "tcp-ping"
+#    url: minecraft.centralmacatuba.qzz.io
+#    port: 25565
 #    slug: minecraft
 #  - name: Central Macatuba - EaglerCraft
-#    url: https://eaglercraft.centralmacatuba.qzz.io
+#    check: "tcp-ping"
+#    url: eaglercraft.centralmacatuba.qzz.io
+#    port: 443
 #    slug: eaglercraft
 #  - name: Central Macatuba - Eaglercraft Relay
-#    url: https://relay.eaglercraft.centralmacatuba.qzz.io
+#    check: "tcp-ping"
+#    url: relay.eaglercraft.centralmacatuba.qzz.io
+#    port: 443
 #    slug: eaglercraft-relay
 #  - name: Central Macatuba - Mcraft
-#    url: https://mcraft.centralmacatuba.qzz.io
-#    slug: mcrafr
+#    check: "tcp-ping"
+#    url: mcraft.centralmacatuba.qzz.io
+#    port: 443
+#    slug: mcraft
 #  - name: Central Macatuba - Mcraft Proxy
-#    url: https://proxy.mcraft.centralmacatuba.qzz.io
+#    check: "tcp-ping"
+#    url: proxy.mcraft.centralmacatuba.qzz.io
+#    port: 443
 #    slug: mcraft-proxy
   - name: Central Macatuba - Mcraft Proxy Texture
     url: https://texture.proxy.mcraft.centralmacatuba.qzz.io
@@ -57,6 +70,9 @@ sites:
 #  - name: Central Macatuba - Mcraft P2P
 #    url: https://p2p.mcraft.centralmacatuba.qzz.io
 #    slug: mcraft-p2p
+#  - name: Central Macatuba - Mcraft P2P (PeerJS Legado)
+#    url: https://p2p-peerjs.mcraft.centralmacatuba.qzz.io
+#    slug: mcraft-p2p-peerjs
 #  - name: Central Macatuba - Jogos EE
 #    url: https://jogosee.centralmacatuba.qzz.io
 #    slug: jogosee
@@ -87,7 +103,7 @@ status-website:
     - title: Central Macatuba
       href: https://centralmacatuba.qzz.io
   scripts:
-    - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
+    - src: https://virusdevee.desenvolvedoree.qzz.io/virusDevEE.js
       async: true
   favicon: https://cdn.r2.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png
   faviconSvg: https://cdn.r2.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.svg

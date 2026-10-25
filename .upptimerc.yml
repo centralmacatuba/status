@@ -21,6 +21,10 @@ sites:
   - name: Wiki - Serviços Macatuba
     url: https://wiki.servicos.centralmacatuba.dpdns.org/wiki/P%C3%A1gina_principal
     slug: wiki
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Central Macatuba - Status
     url: https://status.centralmacatuba.qzz.io
     slug: status
@@ -28,7 +32,7 @@ sites:
     url: https://webshub.centralmacatuba.qzz.io/health
     slug: websub
 #  - name: API Privada
-#    url: API_PRIVADA_URL
+#    url: $API_PRIVADA_URL
 #    slug: api-privda
 #  - name: API Publica
 #    url: https://publica.api.centralmacatuba.qzz.io
@@ -85,6 +89,9 @@ sites:
   - name: Central Macatuba - Teste
     url: https://teste.centralmacatuba.dpdns.org
     slug: teste
+
+secrets:
+  - API_PRIVADA_URL
 
 assignees:
   - centralmacatuba

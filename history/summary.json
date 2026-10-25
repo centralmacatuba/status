@@ -179,19 +179,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.servicos.centralmacatuba.dpdns.org.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "5.89%",
-    "uptimeDay": "5.89%",
-    "uptimeWeek": "5.89%",
-    "uptimeMonth": "5.89%",
-    "uptimeYear": "5.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-10-25": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Central Macatuba - Status",

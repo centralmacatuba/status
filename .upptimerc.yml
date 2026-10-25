@@ -19,7 +19,7 @@ sites:
     url: https://centralmacatuba.discourse.group
     slug: forum
   - name: Wiki - Serviços Macatuba
-    url: https://centralmacatuba.mirahere.org
+    url: https://centralmacatuba.miraheze.org
     slug: wiki
   - name: Central Macatuba - Status
     url: https://status.centralmacatuba.qzz.io

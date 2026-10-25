@@ -178,19 +178,19 @@
     "url": "https://wiki.servicos.centralmacatuba.dpdns.org/wiki/P%C3%A1gina_principal",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.servicos.centralmacatuba.dpdns.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "3.24%",
-    "uptimeDay": "3.24%",
-    "uptimeWeek": "3.24%",
-    "uptimeMonth": "3.24%",
-    "uptimeYear": "3.24%",
+    "status": "up",
+    "uptime": "5.89%",
+    "uptimeDay": "5.89%",
+    "uptimeWeek": "5.89%",
+    "uptimeMonth": "5.89%",
+    "uptimeYear": "5.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 11
+      "2026-10-25": 15
     }
   },
   {
@@ -272,7 +272,7 @@
       "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 236,
-      "2026-10-25": 748,
+      "2026-10-25": 753,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 748,
+      "2026-10-25": 753,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,

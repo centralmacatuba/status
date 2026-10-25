@@ -175,22 +175,22 @@
   },
   {
     "name": "Wiki - Serviços Macatuba",
-    "url": "https://centralmacatuba.mirazehre.org",
-    "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.mirazehre.org.ico",
+    "url": "https://centralmacatuba.mirahere.org",
+    "icon": "https://icons.duckduckgo.com/ip3/centralmacatuba.mirahere.org.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "30.09%",
-    "uptimeDay": "30.09%",
-    "uptimeWeek": "30.09%",
-    "uptimeMonth": "30.09%",
-    "uptimeYear": "30.09%",
+    "uptime": "10.24%",
+    "uptimeDay": "10.24%",
+    "uptimeWeek": "10.24%",
+    "uptimeMonth": "10.24%",
+    "uptimeYear": "10.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 1
+      "2026-10-25": 3
     }
   },
   {
@@ -272,7 +272,7 @@
       "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 236,
-      "2026-10-25": 738,
+      "2026-10-25": 741,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 738,
+      "2026-10-25": 741,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,

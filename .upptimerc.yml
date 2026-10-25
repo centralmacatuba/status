@@ -15,6 +15,12 @@ sites:
   - name: Central Macatuba - CDN (R2) 
     url: https://cdn.r2.centralmacatuba.qzz.io/status.txt
     slug: cloudflare
+  - name: Central Macatuba - Fórum
+    url: https://centralmacatuba.discourse.group
+    slug: forum
+  - name: Wiki - Serviços Macatuba
+    url: https://centralmacatuba.mirazehre.org
+    slug: wiki
   - name: Central Macatuba - Status
     url: https://status.centralmacatuba.qzz.io
     slug: status

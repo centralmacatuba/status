@@ -37,12 +37,18 @@ sites:
 #  - name: API Publica
 #    url: https://publica.api.centralmacatuba.qzz.io
 #    slug: api-publica
+  - name: @centralmacatuba/api - Documentação
+    url: https://sdk.centralmacatuba.qzz.io
+    slug: api-sdk
 #  - name: API Jogos EE (Python)
 #    url: https://jogosee.api.centralmacatuba.qzz.io
 #    slug: api-jogosee
   - name: Central Macatuba - MCP   
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
+  - name: @centralmacatuba/mcp - Documentação
+    url: https://docs.mcp.centralmacatuba.qzz.io
+    slug: mcp-docs
 #  - name: Central Macatuba - Minecraft
 #    check: "tcp-ping"
 #    url: minecraft.centralmacatuba.qzz.io

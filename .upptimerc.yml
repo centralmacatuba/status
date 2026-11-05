@@ -43,7 +43,7 @@ sites:
 #  - name: API Jogos EE (Python)
 #    url: https://jogosee.api.centralmacatuba.qzz.io
 #    slug: api-jogosee
-  - name: Central Macatuba - MCP   
+  - name: Central Macatuba - MCP
     url: https://mcp.centralmacatuba.qzz.io
     slug: mcp
   - name: @centralmacatuba/mcp - Documentação
